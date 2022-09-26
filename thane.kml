@@ -26,6 +26,7 @@
     <name>Thane Store</name>
     <visibility>0</visibility>
 	<Style>
+		<IconStyle>
 		<color>ff7faa00</color>
 			<scale>1.18182</scale>
 			<Icon>
