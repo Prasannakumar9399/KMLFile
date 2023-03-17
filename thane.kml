@@ -38,9 +38,23 @@
     <Point>
 	<coordinates>72.978088,19.21833</coordinates>
     </Point>
-	    <Point>
-	<coordinates>73.721283,19.997440/coordinates>
-    </Point>
+	
+  </Placemark>
+	  <Placemark>
+    <name>Nasik Store</name>
+    <visibility>0</visibility>
+	<Style>
+		<IconStyle>
+		<color>ff7faa00</color>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+   <Point><coordinates>73.721283,19.997440/coordinates></Point>
+	
   </Placemark>
 </Document>
 </kml>
