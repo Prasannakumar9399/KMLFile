@@ -37,7 +37,7 @@
     </Point>
 	
   </Placemark>
-	  <Placemark>
+  <Placemark>
     <name>Nasik Store</name>
     <visibility>0</visibility>
 	<Style>
@@ -50,7 +50,7 @@
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
 	</Style>
-   <Point><coordinates>73.721283,19.997440/coordinates></Point>
+   <Point><coordinates>73.721283,19.997440</coordinates></Point>
 	
   </Placemark>
 </Document>
