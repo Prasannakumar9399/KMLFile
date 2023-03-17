@@ -12,10 +12,10 @@
 			</Icon>
 			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
-	<LineStyle>
+<!-- 	<LineStyle>
 	  <color>ffff0000</color>
 	  <width>2</width>
-	</LineStyle>
+	</LineStyle> -->
     </Style>
     <LineString>
 	<tessellate>1</tessellate>
